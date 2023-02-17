@@ -1,7 +1,7 @@
 # typescript-excercism-exercises
 This is repository of exercises of typescript available on excercism.
 
------- Uploaded Solutions ------
+🧑🏻‍💻 Uploaded Solutions 🧑🏻‍💻
 
 1. Hello World
 2. Two Fer
